@@ -1,0 +1,15 @@
+{
+    "date_api": {
+        "url": "https://timeapi.io/api/Time/current/zone",
+        "parameters": {
+            "timeZone": "Turkey"
+        }
+    },
+    "news_api": {
+        "url": "https://newsapi.org/v2/top-headlines",
+        "parameters": {
+            "country": "tr",
+            "apiKey": "f2b903849117402a87313f911464412c"
+        }
+    }
+}
